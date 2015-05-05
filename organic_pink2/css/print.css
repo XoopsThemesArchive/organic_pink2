@@ -1,0 +1,36 @@
+@charset "euc-jp";
+
+/* ------------ background ------------ */
+.usual {
+	background-color: #FFF;
+	background-image: url();
+	}
+div.page {
+	width: auto;
+	background:#FFF;
+	}
+
+/* ------------ Header elements ------------ */
+
+#header {
+	display:none;
+}
+
+/* ------------ Content Area ------------ */
+#col3 .cc_base, #col2 .cc_base, #col1 .cc_base {
+	float:none;
+	width: 100%;
+}
+#page_top {
+	display:none;
+}
+.leftcolumn {
+	display:none;
+}
+.rightcolumn {
+	display:none;
+}
+#footer {
+	display:none;
+}
+
